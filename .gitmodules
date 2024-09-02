@@ -1,3 +1,12 @@
 [submodule "spark/jupyterhub-terraform-azure"]
 	path = spark/jupyterhub-terraform-azure
 	url = https://github.com/papercloudtech/jupyterhub-terraform-azure
+[submodule "migrationday1/todo-application-jsp-servlet-jdbc-mysql"]
+	path = migrationday1/todo-application-jsp-servlet-jdbc-mysql
+	url = https://github.com/RameshMF/todo-application-jsp-servlet-jdbc-mysql/
+[submodule "migrationday1/todo_app"]
+	path = migrationday1/todo_app
+	url = http://gitlabbeta.harsha.engineer/presidio/todo_app
+[submodule "migrationday1/gitlab-terraform-azure"]
+	path = migrationday1/gitlab-terraform-azure
+	url = https://github.com/papercloudtech/gitlab-terraform-azure
