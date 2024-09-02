@@ -1,0 +1,3 @@
+[submodule "spark/jupyterhub-terraform-azure"]
+	path = spark/jupyterhub-terraform-azure
+	url = https://github.com/papercloudtech/jupyterhub-terraform-azure
