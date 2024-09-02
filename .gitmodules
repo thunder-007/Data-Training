@@ -10,3 +10,6 @@
 [submodule "migrationday1/gitlab-terraform-azure"]
 	path = migrationday1/gitlab-terraform-azure
 	url = https://github.com/papercloudtech/gitlab-terraform-azure
+[submodule "migrationday1/HealthTrackerFunctions"]
+	path = migrationday1/HealthTrackerFunctions
+	url = http://gitlabbeta.harsha.engineer/presidio/HealthTrackerFunctions.git
